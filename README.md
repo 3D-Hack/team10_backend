@@ -25,7 +25,7 @@ The key used to authenticate requests to DVLA Vehicle Enquiry Service API
 https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html
 
 ### DVLA_API_URL
-The API URL for MOT History. Most likely be:
+The API URL for DVLA Vehicle Enquiry Service API. Most likely be:
 
 ```text
 https://driver-vehicle-licensing.api.gov.uk/vehicle-enquiry/v1/vehicles/
